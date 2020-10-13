@@ -1,0 +1,14 @@
+C:\GitHub\pchriste-microsoft-com\PerfectPitchPoC\PerfectPitchPoC\PerfectPitchPoC\bin\Debug\netstandard2.0\PerfectPitchPoC.deps.json
+C:\GitHub\pchriste-microsoft-com\PerfectPitchPoC\PerfectPitchPoC\PerfectPitchPoC\bin\Debug\netstandard2.0\PerfectPitchPoC.dll
+C:\GitHub\pchriste-microsoft-com\PerfectPitchPoC\PerfectPitchPoC\PerfectPitchPoC\bin\Debug\netstandard2.0\ref\PerfectPitchPoC.dll
+C:\GitHub\pchriste-microsoft-com\PerfectPitchPoC\PerfectPitchPoC\PerfectPitchPoC\bin\Debug\netstandard2.0\PerfectPitchPoC.pdb
+C:\GitHub\pchriste-microsoft-com\PerfectPitchPoC\PerfectPitchPoC\PerfectPitchPoC\obj\Debug\netstandard2.0\PerfectPitchPoC.csprojAssemblyReference.cache
+C:\GitHub\pchriste-microsoft-com\PerfectPitchPoC\PerfectPitchPoC\PerfectPitchPoC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\pchriste-microsoft-com\PerfectPitchPoC\PerfectPitchPoC\PerfectPitchPoC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\pchriste-microsoft-com\PerfectPitchPoC\PerfectPitchPoC\PerfectPitchPoC\obj\Debug\netstandard2.0\PerfectPitchPoC.AssemblyInfoInputs.cache
+C:\GitHub\pchriste-microsoft-com\PerfectPitchPoC\PerfectPitchPoC\PerfectPitchPoC\obj\Debug\netstandard2.0\PerfectPitchPoC.AssemblyInfo.cs
+C:\GitHub\pchriste-microsoft-com\PerfectPitchPoC\PerfectPitchPoC\PerfectPitchPoC\obj\Debug\netstandard2.0\PerfectPitchPoC.csproj.CoreCompileInputs.cache
+C:\GitHub\pchriste-microsoft-com\PerfectPitchPoC\PerfectPitchPoC\PerfectPitchPoC\obj\Debug\netstandard2.0\PerfectPitchPoC.dll
+C:\GitHub\pchriste-microsoft-com\PerfectPitchPoC\PerfectPitchPoC\PerfectPitchPoC\obj\Debug\netstandard2.0\ref\PerfectPitchPoC.dll
+C:\GitHub\pchriste-microsoft-com\PerfectPitchPoC\PerfectPitchPoC\PerfectPitchPoC\obj\Debug\netstandard2.0\PerfectPitchPoC.pdb
+C:\GitHub\pchriste-microsoft-com\PerfectPitchPoC\PerfectPitchPoC\PerfectPitchPoC\obj\Debug\netstandard2.0\XamlC.stamp

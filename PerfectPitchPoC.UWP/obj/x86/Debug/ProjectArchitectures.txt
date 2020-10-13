@@ -1,0 +1,1 @@
+C:\GitHub\pchriste-microsoft-com\PerfectPitchPoC\PerfectPitchPoC\PerfectPitchPoC.UWP\PerfectPitchPoC.UWP.csproj;x86
